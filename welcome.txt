@@ -1,2 +1,3 @@
 Welcome to my Git repository for week 6
 thank you!!
+This line was added on GitNewBranch.
